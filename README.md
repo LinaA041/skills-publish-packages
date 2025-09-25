@@ -102,6 +102,16 @@ Let's trying running it.
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+Evidence of work: 
+
+<img width="736" height="212" alt="image" src="https://github.com/user-attachments/assets/415ff1a6-0a62-4410-b681-82b06aa8dc89" />
+
+<img width="772" height="63" alt="image" src="https://github.com/user-attachments/assets/6a4094a9-1084-417e-8e3e-dbbb73b684ec" />
+
+<img width="1229" height="467" alt="image" src="https://github.com/user-attachments/assets/05ec0e28-6b01-4852-9732-885dcbe04d71" />
+
+<img width="1299" height="743" alt="image" src="https://github.com/user-attachments/assets/207ada54-8e73-4b09-a8d6-a9fe593372f6" />
+
 
 ## Finish
 
